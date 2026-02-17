@@ -1,0 +1,48 @@
+# Adaptive Zero Trust Network Observer (AZT-NO) - Running Instructions
+
+Follow these steps to set up and run the AZT-NO system:
+
+## 1. Prerequisites
+Ensure you have Python 3.8+ installed.
+
+## 2. Install Dependencies
+Open your terminal and run:
+bash
+pip install -r requirements.txt
+
+
+## 3. Train Machine Learning Models
+If you want to retrain the models or if models are missing:
+bash
+python train_models.py
+
+This will generate the `models/` directory containing trained classifiers and encoders.
+
+## 4. Start the Backend API
+Run the FastAPI server:
+bash
+python app.py
+
+The API will be available at `http://localhost:8000`. You can view the automated documentation at `http://localhost:8000/docs`.
+
+## 5. Launch the Monitoring Dashboard (Streamlit)
+In a new terminal window, run:
+bash
+streamlit run dashboard.py
+
+The Streamlit dashboard UI will open in your default browser.
+
+## 6. Launch the Intruder Time Observer (Web Frontend)
+1. Navigate to the `frontend/` folder.
+2. Open `index.html` in any modern web browser (e.g., Chrome, Edge).
+3. Ensure the Backend API is running (Step 4).
+4. Click **"Test Intruder"** to manually simulate a threat.
+
+## 7. Simulate Real-time Traffic
+In the Streamlit Dashboard:
+1. Go to the sidebar.
+2. Click **"Simulate Random Traffic"**.
+3. Watch the "Real-time Monitor" and "Threat Analysis" tabs for live updates.
+
+## 8. Forensic Analysis
+All detected threats and suspicious activities are logged in `alerts.log` for future forensic review.

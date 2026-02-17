@@ -1,0 +1,89 @@
+2026-02-16 20:38:22,191 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:39:15,731 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:39:20,595 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:39:21,904 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:39:34,972 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:39:35,776 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:40:15,835 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:40:40,076 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.5. Risk: 52.916774009625556. Action: Throttle
+2026-02-16 20:40:44,854 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.5. Risk: 52.916774009625556. Action: Throttle
+2026-02-16 20:40:45,561 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:40:48,783 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:41:10,234 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:41:12,907 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.5. Risk: 52.916774009625556. Action: Throttle
+2026-02-16 20:41:14,318 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:41:15,347 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.5. Risk: 52.916774009625556. Action: Throttle
+2026-02-16 20:41:16,197 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.5. Risk: 52.916774009625556. Action: Throttle
+2026-02-16 20:41:16,845 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:41:17,487 - WARNING - ALERT: Port Scan detected from 192.168.1.10. Risk: 52.61392899530715. Action: Throttle
+2026-02-16 20:41:18,197 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.5. Risk: 52.916774009625556. Action: Throttle
+2026-02-16 20:44:17,811 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:44:24,681 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:44:25,976 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:44:28,606 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:44:29,616 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:44:33,812 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:44:34,736 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.99. Risk: 52.77484367886123. Action: Throttle
+2026-02-16 20:44:40,774 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:44:41,717 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-16 20:44:43,430 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:44:44,409 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:44:54,406 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.99. Risk: 52.77484367886123. Action: Throttle
+2026-02-16 20:44:56,209 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-16 20:44:57,080 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:44:59,302 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:45:01,068 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:45:01,981 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:45:02,887 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:45:03,780 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:45:05,038 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:45:05,915 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-16 20:45:07,286 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:45:12,201 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.99. Risk: 52.77484367886123. Action: Throttle
+2026-02-16 20:45:13,643 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.99. Risk: 52.77484367886123. Action: Throttle
+2026-02-16 20:45:14,481 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.99. Risk: 52.77484367886123. Action: Throttle
+2026-02-16 20:45:15,462 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-16 20:45:16,439 - WARNING - ALERT: DNS Tunneling detected from 10.0.0.99. Risk: 52.77484367886123. Action: Throttle
+2026-02-17 10:41:15,818 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:41:19,264 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:41:46,239 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:41:49,263 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:41:58,259 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:41:59,268 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:05,130 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:06,085 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:42:06,934 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:42:11,322 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:12,290 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:42:16,540 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:42:19,247 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:20,263 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:42:21,194 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:23,041 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:24,890 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:25,791 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:42:26,693 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:42:27,570 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:42:28,579 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:43:07,648 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:43:08,976 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:43:16,115 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:43:18,023 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:43:34,053 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:43:38,376 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:43:40,591 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:43:42,104 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:43:43,964 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:43:45,023 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:43:45,902 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:43:46,815 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:43:47,818 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:43:48,735 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:44:05,034 - WARNING - ALERT: Port Scan detected from 192.168.1.25. Risk: 52.55176691154555. Action: Throttle
+2026-02-17 10:44:06,023 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 10:44:06,957 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 10:44:07,909 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 12:02:26,410 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
+2026-02-17 12:03:32,374 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 12:03:34,159 - WARNING - ALERT: Malware detected from 192.168.1.10. Risk: 51.850086475915646. Action: Block
+2026-02-17 12:03:35,094 - WARNING - ALERT: Port Scan detected from 45.33.22.11. Risk: 52.64136449667477. Action: Throttle
